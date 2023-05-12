@@ -11,7 +11,7 @@ sites:
     url: https://openbdap.rgs.mef.gov.it/
   - name: ANAC - OpenData
     url: https://dati.anticorruzione.it/opendata
-  - name: Portale Datibenecomune
+  - name: Portale Dati Bene Comune
     url: https://www.datibenecomune.it
 
 status-website:
