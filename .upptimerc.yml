@@ -30,7 +30,7 @@ workflowSchedule:
 
 
 i18n:
-  allSystemsOperational: || 🟩 Tutti i sistemi sono operativi
-  partialOutage: || 🟧 Alcuni sistemi non sono operativi
-  completeOutage: || 🟥 Nessun sistema è operativo
-  degradedPerformance: || 🟨 Il sito non sta funzionando come dovrebbe
+  allSystemsOperational: 🟩 Tutti i sistemi sono operativi
+  partialOutage: 🟧 Alcuni sistemi non sono operativi
+  completeOutage:  🟥 Nessun sistema è operativo
+  degradedPerformance: 🟨 Il sito non sta funzionando come dovrebbe
