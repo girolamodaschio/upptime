@@ -15,9 +15,6 @@ sites:
     url: https://www.datibenecomune.it
 
 
-
-
-
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
@@ -33,5 +30,7 @@ workflowSchedule:
 
 
 i18n:
-  allSystemsOperational: Funziona tutto
-  
+  allSystemsOperational: || 🟩 Tutti i sistemi sono operativi
+  partialOutage: || 🟧 Alcuni sistemi non sono operativi
+  completeOutage: || 🟥 Nessun sistema è operativo
+  degradedPerformance: || 🟨 Il sito non sta funzionando come dovrebbe
