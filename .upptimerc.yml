@@ -14,13 +14,10 @@ sites:
   - name: Portale Dati Bene Comune
     url: https://www.datibenecomune.it
 
-status-website:
-  introTitle: "Status Fonte Dati PNRR"
-  introMessage: Questa pagina segnala lo status delle fonti dati per il monitoraggio PNRR.
-  links:
-    - rel: stylesheet
-      href: https://pnrr.datibenecomune.it/site_libs/quarto-html/tippy.css
-            
+
+
+
+
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
