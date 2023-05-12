@@ -9,9 +9,6 @@ sites:
     url: https://dati.mit.gov.it/catalog/dataset/scp
   - name: Ragioneria Generale dello Stato - OpenBDAP
     url: https://openbdap.rgs.mef.gov.it/
-  - name: ItaliaDomani - Catalogo OpenData
-    url: https://www.italiadomani.gov.it
-    method: GET
   - name: ANAC - OpenData
     url: https://dati.anticorruzione.it/opendata
   - name: Portale Datibenecomune
@@ -36,3 +33,7 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
+
+
+i18n:
+  footer: This page is [open source]($REPO)
