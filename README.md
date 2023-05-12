@@ -14,10 +14,8 @@
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://upptime.github.io/upptime)
 
-## 📄 License
+## 📄 Licenza
 
-- Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Upptime](https://upptime.js.org)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
