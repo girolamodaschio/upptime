@@ -11,7 +11,28 @@ sites:
     url: https://openbdap.rgs.mef.gov.it/
   - name: ItaliaDomani - Catalogo OpenData
     url: https://www.italiadomani.gov.it
+    method: GET
   - name: ANAC - OpenData
     url: https://dati.anticorruzione.it/opendata
   - name: Portale Datibenecomune
     url: https://www.datibenecomune.it
+
+status-website:
+  introTitle: "Status Fonte Dati PNRR"
+  introMessage: Questa pagina segnala lo status delle fonti dati per il monitoraggio PNRR.
+  links:
+    - rel: stylesheet
+      href: https://pnrr.datibenecomune.it/site_libs/quarto-html/tippy.css
+            
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
