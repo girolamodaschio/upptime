@@ -14,9 +14,6 @@ sites:
   - name: Portale Datibenecomune
     url: https://www.datibenecomune.it
 
-description: Uno due tre
-
-
 status-website:
   introTitle: "Status Fonte Dati PNRR"
   introMessage: Questa pagina segnala lo status delle fonti dati per il monitoraggio PNRR.
