@@ -22,19 +22,19 @@
     "url": "https://dati.mit.gov.it/catalog/dataset/scp",
     "icon": "https://icons.duckduckgo.com/ip3/dati.mit.gov.it.ico",
     "slug": "ministero-dei-trasporti-portale-open-data",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2652,
-    "timeDay": 2568,
-    "timeWeek": 2652,
-    "timeMonth": 2652,
-    "timeYear": 2652,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 2663,
+    "timeDay": 2708,
+    "timeWeek": 2663,
+    "timeMonth": 2663,
+    "timeYear": 2663,
     "dailyMinutesDown": {
-      "2023-05-15": 0
+      "2023-05-15": 18
     }
   },
   {
