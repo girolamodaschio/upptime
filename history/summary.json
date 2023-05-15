@@ -22,9 +22,9 @@
     "url": "https://dati.mit.gov.it/catalog/dataset/scp",
     "icon": "https://icons.duckduckgo.com/ip3/dati.mit.gov.it.ico",
     "slug": "ministero-dei-trasporti-portale-open-data",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 2652,
     "timeMonth": 2652,
     "timeYear": 2652,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-15": 0
+    }
   },
   {
     "name": "Ragioneria Generale dello Stato - OpenBDAP",
