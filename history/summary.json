@@ -42,19 +42,19 @@
     "url": "https://openbdap.rgs.mef.gov.it/",
     "icon": "https://icons.duckduckgo.com/ip3/openbdap.rgs.mef.gov.it.ico",
     "slug": "ragioneria-generale-dello-stato-open-bdap",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1956,
-    "timeDay": 1567,
-    "timeWeek": 1872,
-    "timeMonth": 1956,
-    "timeYear": 1956,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1958,
+    "timeDay": 1710,
+    "timeWeek": 1885,
+    "timeMonth": 1958,
+    "timeYear": 1958,
     "dailyMinutesDown": {
-      "2023-05-22": 0
+      "2023-05-22": 19
     }
   },
   {
