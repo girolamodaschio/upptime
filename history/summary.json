@@ -74,19 +74,19 @@
     "url": "https://dati.anticorruzione.it/opendata",
     "icon": "https://icons.duckduckgo.com/ip3/dati.anticorruzione.it.ico",
     "slug": "anac-open-data",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1352,
-    "timeDay": 1128,
-    "timeWeek": 1241,
-    "timeMonth": 1339,
-    "timeYear": 1352,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1355,
+    "timeDay": 1339,
+    "timeWeek": 1280,
+    "timeMonth": 1346,
+    "timeYear": 1355,
     "dailyMinutesDown": {
-      "2023-07-04": 0
+      "2023-07-04": 12
     }
   },
   {
