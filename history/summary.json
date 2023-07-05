@@ -4,9 +4,9 @@
     "url": "https://www.opencup.gov.it/",
     "icon": "https://icons.duckduckgo.com/ip3/www.opencup.gov.it.ico",
     "slug": "presidenza-del-consiglio-dei-ministri-open-cup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 3914,
     "timeMonth": 3188,
     "timeYear": 3065,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-05": 0
+    }
   },
   {
     "name": "Ministero Dei Trasporti - Portale OpenData",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dati.mit.gov.it.ico",
     "slug": "ministero-dei-trasporti-portale-open-data",
     "status": "up",
-    "uptime": "95.81%",
+    "uptime": "95.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.73%",
-    "uptimeYear": "95.81%",
+    "uptimeYear": "95.84%",
     "time": 2936,
     "timeDay": 2365,
     "timeWeek": 2777,
