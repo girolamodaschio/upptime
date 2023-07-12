@@ -1,7 +1,7 @@
 url: https://openbdap.rgs.mef.gov.it/
-status: up
-code: 200
-responseTime: 11689
-lastUpdated: 2023-07-11T23:10:06.816Z
+status: down
+code: 503
+responseTime: 1445
+lastUpdated: 2023-07-12T08:43:34.482Z
 startTime: Fri May 12 2023 08:05:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
