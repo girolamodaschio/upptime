@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.opencup.gov.it.ico",
     "slug": "presidenza-del-consiglio-dei-ministri-open-cup",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
     "time": 3410,
     "timeDay": 1829,
     "timeWeek": 5971,
     "timeMonth": 4080,
     "timeYear": 3410,
     "dailyMinutesDown": {
-      "2023-07-12": 0
+      "2023-07-12": 30
     }
   },
   {
