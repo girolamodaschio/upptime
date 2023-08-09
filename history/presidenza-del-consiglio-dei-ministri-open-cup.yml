@@ -1,7 +1,7 @@
 url: https://www.opencup.gov.it/
-status: up
-code: 200
-responseTime: 2238
-lastUpdated: 2023-08-08T23:08:45.579Z
+status: down
+code: 404
+responseTime: 1163
+lastUpdated: 2023-08-09T01:47:11.948Z
 startTime: Fri May 12 2023 08:05:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
