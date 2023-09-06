@@ -1,7 +1,7 @@
 url: https://dati.mit.gov.it/catalog/dataset/scp
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-06T11:40:19.779Z
+status: up
+code: 200
+responseTime: 1866
+lastUpdated: 2023-09-06T11:48:30.909Z
 startTime: 2023-05-12T08:05:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
